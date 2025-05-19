@@ -1,0 +1,27 @@
+.contenedor{
+  background-image: url("rectangulo.png");
+  position: relative; 
+  width: fit-content; 
+  margin-top: 15px;
+  margin-left: 130px;
+  width: 1201px;
+  height: 316px;
+  
+ 
+  
+}
+
+.rectangulo {
+  display: block;   
+}
+
+
+.cirsulos1{
+  padding-left: 69rem;
+
+  position: relative; 
+  width: fit-content; 
+  
+  
+  
+}

@@ -1,0 +1,22 @@
+.electronicos{
+     display: flex;
+    grid-template-columns: repeat(7,1fr);
+    padding-left: 10rem;
+    
+   
+}
+.electronicos img{
+    margin-top: 3rem;
+    width: 185px;
+    height: 260px;
+    
+}
+.seccion6{
+     margin-top: 2rem;
+
+    display: flex;
+  
+    
+   
+
+}
